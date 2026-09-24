@@ -1,7 +1,7 @@
 // Edita el título, las frases, las fotos y la música aquí.
 
 const DEFAULTS = {
-  titulo: "Feliz Día Mujer Virtuosa 🌻",
+  titulo: "Felicidades Mujer Virtuosa 🌻",
   frases: [
     "💛 Mujer virtuosa, vales más que las joyas","🌼 Amada por Dios desde antes de nacer","💛 Tu fuerza y dulzura son un regalo divino",
     "🌼 Dios te hizo con propósito y amor","💛 Vistes fortaleza y dignidad cada día","🌼 Tus palabras llevan sabiduría y bondad",
