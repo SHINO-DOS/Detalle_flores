@@ -17,7 +17,7 @@ Documentación oficial: https://docs.github.com/en/pages/getting-started-with-gi
 
 ## Personalizar
 Abre `config.js` en el editor de GitHub o en VS Code.
-- `titulo`: el encabezado. Por ejemplo: "Flores amarillas para Geysa 🌻".
+- `titulo`: el encabezado. flores coloridas".
 - `frases`: cambia los textos conservando las comillas y comas.
 - `fotos`: rutas de las imágenes que flotan; puedes reemplazar los PNG de assets.
 - `musica`: ruta del MP3. Puedes reemplazar assets/musica.mp3.
